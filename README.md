@@ -126,14 +126,6 @@ Visualized with a **sorted bar plot** (rotated x-axis labels for readability).
 
 ---
 
-## How to Run
-
-1. Upload `mushrooms.csv` to your Google Colab environment
-2. Open the notebook in **Google Colab** or **Jupyter Notebook**
-3. Run all cells in order
-
----
-
 ## Key Takeaways
 
 | Step | Detail |
